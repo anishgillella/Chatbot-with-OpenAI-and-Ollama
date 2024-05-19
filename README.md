@@ -1,9 +1,3 @@
-# Chatbot-with-OpenAI-and-Ollama
-
-Here's a simple README for your GitHub repository:
-
----
-
 # LangChain Chatbot Repository
 
 This repository contains two Python scripts that utilize the LangChain framework for creating LLM-based chatbots. Each script demonstrates how to leverage different models for chatbot applications. Both applications can be monitored using LangSmith.
